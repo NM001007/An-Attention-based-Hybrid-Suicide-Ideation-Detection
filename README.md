@@ -10,7 +10,6 @@ Mental health has become a major concern in recent years. Social media have been
 ## Reference
 
 @article{GHOSH2023119007,
-
 title = {An attention-based hybrid architecture with explainability for depressive social media text detection in Bangla},
 journal = {Expert Systems with Applications},
 volume = {213},
