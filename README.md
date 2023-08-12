@@ -1,4 +1,4 @@
-# An-Attention-based-Hybrid-Suicide-Ideation-Detection
+# An-Attention-based-Hybrid-Suicide/Depression-Ideation-Detection
 This is an implementation of the attention-based hybrid architecture (Ghosh et al, 2023) applied on suicide social media notes detection.
 
 ## About the Paper
